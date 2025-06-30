@@ -1,5 +1,7 @@
 # KMU-Data_Science
 ## 국민대_데이터과학
+**2nd Semester, 2024 / Instructor: Ha Myung Park**
+
 ---
 ### Midterm Exam
 - L01. Linear Regression
