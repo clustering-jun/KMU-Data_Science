@@ -3,7 +3,7 @@
 **2nd Semester, 2024 / Instructor: Ha Myung Park**
 
 ---
-### Midterm Exam
+### Midterm Exam scope
 - L01. Linear Regression
 - L02. Logistic Regression
 - L03. Softmax Regression
@@ -15,7 +15,7 @@
 <br>
 
 ---
-### Final Exam
+### Final Exam scope
 - L08. Principal Componet Analysis (PCA)
 - L09. PageRank
 - L10. Network Analysis
