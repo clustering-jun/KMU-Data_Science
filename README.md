@@ -8,7 +8,7 @@
 - L02. Logistic Regression
 - L03. Softmax Regression
 - L04. K Nearest Neighbors (KNN)
-- L05. Decision Trees
+- L05. Decision Tree
 - L06. Random Forests
 - L07. K-Means Clustering
 
